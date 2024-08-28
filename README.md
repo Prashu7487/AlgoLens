@@ -47,8 +47,6 @@ The Sorting Algorithm Visualizer window allows users to switch between sorting a
 &nbsp;&nbsp;&nbsp;&nbsp; ![Selection Sort](gifs/Selection_Sort.gif)
 #### &nbsp;&nbsp;&nbsp;&nbsp;Insertion Sort
 &nbsp;&nbsp;&nbsp;&nbsp; ![Insertion Sort](gifs/insertion_sort.gif)
-#### &nbsp;&nbsp;&nbsp;&nbsp;Bubble Sort
-&nbsp;&nbsp;&nbsp;&nbsp; ![Bubble Sort](gifs/BUBBLESORT.gif)
 #### &nbsp;&nbsp;&nbsp;&nbsp;Merge Sort
 &nbsp;&nbsp;&nbsp;&nbsp; ![Merge Sort](gifs/merge_sort.gif)
 #### &nbsp;&nbsp;&nbsp;&nbsp;Quick Sort
@@ -61,6 +59,6 @@ The Sorting Algorithm Visualizer window allows users to switch between sorting a
 ## Requirements/Steps to run 
   * Install [*__Python__*](https://www.python.org/downloads/)
   * Install [*__Pygame Module__*](https://www.pygame.org/wiki/GettingStarted)
-  * Run Algorithm_Visualizer (main).py
+  * main.py
 
 All the best!
